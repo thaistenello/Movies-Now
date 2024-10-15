@@ -29,6 +29,7 @@ function MovieModal({ open, handleClose, movie }) {
       open={open}
       onClose={handleClose}
       TransitionComponent={Grow}
+      aria-labelledby="movie-modal-title"
       sx={{
         '& .MuiDialog-paper': {
           maxWidth: '69%',
@@ -63,9 +64,9 @@ function MovieModal({ open, handleClose, movie }) {
               sm: '45%',
             },
             display: {
-              xs: 'none', // Não exibe em telas xs (extra pequenas)
-              sm: 'none', // Não exibe em telas sm (pequenas)
-              md: 'block', // Exibe em telas md (médias) e maiores
+              xs: 'none', 
+              sm: 'none', 
+              md: 'block', 
             }
           }}
           />
@@ -82,7 +83,8 @@ function MovieModal({ open, handleClose, movie }) {
           }}>
 
             {/* Title */}
-            <DialogTitle component="div" 
+            <DialogTitle component="div"
+            id="movie-modal-title" 
             sx={{ 
               padding: 0, 
               display: 'flex', 
