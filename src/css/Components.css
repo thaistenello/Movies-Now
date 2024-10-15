@@ -1,0 +1,19 @@
+.center {
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+  
+.date-center {
+  position: absolute;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  width: 100%;
+  left: 0;
+  right: 0;
+  top: 1vh;
+  z-index: 1;
+
+}
+
