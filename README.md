@@ -89,7 +89,7 @@
 <h2>Licença</h2>
 <br/>
 <p>
-    Este projeto está licenciado sob a licença MIT. Consulte o arquivo <a href="#">LICENSE</a> para mais detalhes.
+    Este projeto está licenciado sob a licença MIT. Consulte o arquivo <a href="https://github.com/thaistenello/Movies-Now/blob/main/LICENSE">LICENSE</a> para mais detalhes.
 </p>
 <br/>
 <br/>
@@ -189,7 +189,7 @@
 <h2>License</h2>
 <br/>
 <p>
-    This project is licensed under the MIT License. See the <a href="#">LICENSE</a> file for more details.
+    This project is licensed under the MIT License. See the <a href="https://github.com/thaistenello/Movies-Now/blob/main/LICENSE">LICENSE</a> file for more details.
 </p>
 <br/>
 <br/>
