@@ -30,7 +30,7 @@ export const Theme = createTheme ({
 
     palette: {
       background: {
-        default: '#0a0a0a', // Define a cor de fundo global
+        default: '#0a0a0a',
       },
     },
 })

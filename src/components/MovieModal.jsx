@@ -141,6 +141,7 @@ function MovieModal({ open, handleClose, movie }) {
           </Box>
         </DialogContent>
       ) : (
+        // Loading
         <Box className='center' sx={{ height: '50vh', padding: '2rem'}}>
           <CircularProgress />
         </Box>

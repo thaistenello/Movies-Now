@@ -1,5 +1,6 @@
 import axios from 'axios';
 
+//Key
 export const getNowMovies = async () => {
   const apiKey = "cc2d414efb067771c7a7a9248294bfa0";
 
