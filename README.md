@@ -13,7 +13,7 @@
 ![movies-preview](https://github.com/user-attachments/assets/9c86bc25-0603-4cfe-be87-481de164829d)
 
 <!-- VERCEL BUTTON -->
-<a href="#">
+<a href="https://movies-now-pearl.vercel.app/">
     <img src="https://github.com/user-attachments/assets/ba534699-5e1e-45ed-8f39-5babe9a838af">
 </a>
 
@@ -113,7 +113,7 @@
 ![movies-preview](https://github.com/user-attachments/assets/9c86bc25-0603-4cfe-be87-481de164829d)
 
 <!-- VERCEL BUTTON -->
-<a href="#">
+<a href="https://movies-now-pearl.vercel.app/">
     <img src="https://github.com/user-attachments/assets/7aa7b556-2a45-483d-bae7-535a1f613303">
 </a>
 
